@@ -20,9 +20,8 @@ Une API de gestion de tâches développée avec Django, conçue pour gérer vos 
 1. **Cloner le dépôt**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/todo-list-api.git
-   cd todo-list-api
-
+   git clone https://github.com/CodeKilla0/To-Do-List-API
+   cd To-Do-List-API
    ```
 
 2. **Créer un environnement virtuel**
@@ -92,6 +91,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à forker le dépôt et �
 Ce projet est sous licence MIT.
 
 # Contact
-Pour toute question, vous pouvez me contacter à votre-email@example.com.
+Pour toute question, vous pouvez me contacter à aziz.diomande@epitech.com.
 
 
